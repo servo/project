@@ -54,3 +54,29 @@ In all Servo-related forums, we follow the [Rust Code of Conduct](https://www.ru
 Servo contributors frequent the [Servo room](https://chat.mozilla.org/#/room/#servo:mozilla.org) on [Mozilla Matrix](https://wiki.mozilla.org/Matrix).
 
 You can also join the [`dev-servo` mailing list](https://lists.mozilla.org/listinfo/dev-servo).
+
+## Technical Steering Committee
+
+Technical oversight of the Servo Project is provided by the Technical Steering Committee,
+comprised of:
+
+- [Alan Jeffrey](https://github.com/asajeffrey)
+- [Anthony Ramaine](https://github.com/nox)
+- [Connor Brewster](https://github.com/cbrewster)
+- [Cybai](https://github.com/cybai)
+- [Diane Hosfelt](https://github.com/avadacatavra)
+- [Dzmitry Malyshau](https://github.com/kvark)
+- [Emilio Cobos Álvarez](https://github.com/emilio)
+- [Fernando Jiménez Moreno](https://github.com/ferjm)
+- [Glenn Watson](https://github.com/gw3583)
+- [Gregory Terzian](https://github.com/gterzian)
+- [Jack Moffitt](https://github.com/metajack)
+- [James Graham](https://github.com/jgraham)
+- [Josh matthews](https://github.com/jdm)
+- [Keith Yeung](https://github.com/KiChjang)
+- [Lars Bergstrom](https://github.com/larsbergstrom)
+- [Manish Goregaokar](https://github.com/Manishearth)
+- [Martin Robinson](https://github.com/mrobinson)
+- [Patrick Walton](https://github.com/pcwalton)
+- [Paul Rouget](https://github.com/paulrouget)
+- [Simon Sapin](https://github.com/SimonSapin)
