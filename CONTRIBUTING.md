@@ -63,7 +63,7 @@ comprised of:
 - [Alan Jeffrey](https://github.com/asajeffrey)
 - [Anthony Ramine](https://github.com/nox)
 - [Connor Brewster](https://github.com/cbrewster)
-- [Cybai](https://github.com/cybai)
+- [Cheng-You Bai](https://github.com/cybai)
 - [Diane Hosfelt](https://github.com/avadacatavra)
 - [Dzmitry Malyshau](https://github.com/kvark)
 - [Emilio Cobos Álvarez](https://github.com/emilio)
