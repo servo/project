@@ -61,7 +61,7 @@ Technical oversight of the Servo Project is provided by the Technical Steering C
 comprised of:
 
 - [Alan Jeffrey](https://github.com/asajeffrey)
-- [Anthony Ramaine](https://github.com/nox)
+- [Anthony Ramine](https://github.com/nox)
 - [Connor Brewster](https://github.com/cbrewster)
 - [Cybai](https://github.com/cybai)
 - [Diane Hosfelt](https://github.com/avadacatavra)
@@ -72,7 +72,7 @@ comprised of:
 - [Gregory Terzian](https://github.com/gterzian)
 - [Jack Moffitt](https://github.com/metajack)
 - [James Graham](https://github.com/jgraham)
-- [Josh matthews](https://github.com/jdm)
+- [Josh Matthews](https://github.com/jdm)
 - [Keith Yeung](https://github.com/KiChjang)
 - [Lars Bergstrom](https://github.com/larsbergstrom)
 - [Manish Goregaokar](https://github.com/Manishearth)
