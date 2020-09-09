@@ -68,7 +68,6 @@ comprised of:
 - [Dzmitry Malyshau](https://github.com/kvark)
 - [Emilio Cobos Álvarez](https://github.com/emilio)
 - [Fernando Jiménez Moreno](https://github.com/ferjm)
-- [Glenn Watson](https://github.com/gw3583)
 - [Gregory Terzian](https://github.com/gterzian)
 - [Jack Moffitt](https://github.com/metajack)
 - [James Graham](https://github.com/jgraham)
