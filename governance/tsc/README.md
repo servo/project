@@ -38,7 +38,7 @@ Contact the TSC secretary to join a subcommittee.
 - launch
   - [Alan Jeffrey](https://github.com/asajeffrey)
   - [Lars Bergstrom](https://github.com/larsbergstrom)
-- infrastructure
   - [Simon Sapin](https://github.com/SimonSapin)
+- infrastructure
   - [Josh Matthews](https://github.com/jdm)
 - technical direction
