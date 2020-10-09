@@ -4,7 +4,7 @@ The TSC is responsible for technical oversight of the Servo Project, as laid out
 
 ## Membership
 
-- [Alan Jeffrey](https://github.com/asajeffrey)
+- [Alan Jeffrey](https://github.com/asajeffrey) (chair)
 - [Anthony Ramine](https://github.com/nox)
 - [Connor Brewster](https://github.com/cbrewster)
 - [Cheng-You Bai](https://github.com/cybai)
@@ -15,7 +15,7 @@ The TSC is responsible for technical oversight of the Servo Project, as laid out
 - [Gregory Terzian](https://github.com/gterzian)
 - [Jack Moffitt](https://github.com/metajack)
 - [James Graham](https://github.com/jgraham)
-- [Josh Matthews](https://github.com/jdm)
+- [Josh Matthews](https://github.com/jdm) (secretary)
 - [Keith Yeung](https://github.com/KiChjang)
 - [Lars Bergstrom](https://github.com/larsbergstrom)
 - [Manish Goregaokar](https://github.com/Manishearth)
@@ -33,3 +33,12 @@ The TSC meets in public, and all minutes are published.
 ## Subcommittees
 
 The TSC can form subcommittees for detailed discussion of issues.
+Contact the TSC secretary to join a subcommittee.
+
+- launch
+  - [Alan Jeffrey](https://github.com/asajeffrey)
+  - [Lars Bergstrom](https://github.com/larsbergstrom)
+- infrastructure
+  - [Simon Sapin](https://github.com/SimonSapin)
+  - [Josh Matthews](https://github.com/jdm)
+- technical direction
