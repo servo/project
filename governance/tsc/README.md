@@ -42,3 +42,5 @@ Contact the TSC secretary to join a subcommittee.
 - infrastructure
   - [Josh Matthews](https://github.com/jdm)
 - technical direction
+  - [Josh Matthews](https://github.com/jdm)
+  - [Cheng-You Bai](https://github.com/cybai)
