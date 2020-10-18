@@ -41,6 +41,9 @@ Contact the TSC secretary to join a subcommittee.
   - [Simon Sapin](https://github.com/SimonSapin)
 - infrastructure
   - [Josh Matthews](https://github.com/jdm)
+  - [Alan Jeffrey](https://github.com/asajeffrey)
 - technical direction
   - [Josh Matthews](https://github.com/jdm)
   - [Cheng-You Bai](https://github.com/cybai)
+  - [Alan Jeffrey](https://github.com/asajeffrey)
+  - [Martin Robinson](https://github.com/mrobinson)
