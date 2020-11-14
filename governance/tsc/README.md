@@ -30,6 +30,12 @@ The TSC meets in public, and all minutes are published.
 
 * [9 Oct 2020](tsc-2020-10-09.md)
 
+Launch subcommittee meeting:
+* [13 Nov 2020](launch-2020-11-13.md)
+* [06 Nov 2020](launch-2020-11-06.md)
+* [30 Oct 2020](launch-2020-10-30.md)
+* [23 Oct 2020](launch-2020-10-23.md)
+
 ## Subcommittees
 
 The TSC can form subcommittees for detailed discussion of issues.
