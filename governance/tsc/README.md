@@ -62,6 +62,7 @@ Contact the TSC secretary to join a subcommittee.
   - [Cheng-You Bai](https://github.com/cybai)
   - [Alan Jeffrey](https://github.com/asajeffrey)
   - [Martin Robinson](https://github.com/mrobinson)
+  - [Manish Goregaokar](https://github.com/Manishearth)
 
 Past subcommittees:
 
