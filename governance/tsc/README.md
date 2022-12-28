@@ -6,7 +6,7 @@ The TSC is responsible for technical oversight of the Servo Project, as laid out
 
 Current members:
 
-- [Alan Jeffrey](https://github.com/asajeffrey) (chair)
+- [Alan Jeffrey](https://github.com/asajeffrey)
 - [Anthony Ramine](https://github.com/nox)
 - [Connor Brewster](https://github.com/cbrewster)
 - [Cheng-You Bai](https://github.com/cybai)
@@ -20,7 +20,7 @@ Current members:
 - [Josh Aas](https://github.com/bdaehlie)
 - [Josh Matthews](https://github.com/jdm) (secretary)
 - [Keith Yeung](https://github.com/KiChjang)
-- [Manuel Rego](https://github.com/mrego)
+- [Manuel Rego](https://github.com/mrego) (chair)
 - [Manish Goregaokar](https://github.com/Manishearth)
 - [Martin Robinson](https://github.com/mrobinson)
 - [Oriol Brufau](https://github.com/Loirooriol)
@@ -38,6 +38,7 @@ Past members:
 
 The TSC meets in public, and all minutes are published.
 
+* [12 Dec 2022](tsc-2022-12-12.md)
 * [10 Dec 2021](tsc-2021-12-10.md)
 * [08 Oct 2021](tsc-2021-10-08.md)
 * [11 Jun 2021](tsc-2021-06-11.md)
