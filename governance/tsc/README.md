@@ -23,6 +23,7 @@ Current members:
 - [Manuel Rego](https://github.com/mrego) (chair)
 - [Manish Goregaokar](https://github.com/Manishearth)
 - [Martin Robinson](https://github.com/mrobinson)
+- [Mukilan Thiyagarajan](https://github.com/mukilan)
 - [Oriol Brufau](https://github.com/Loirooriol)
 - [Patrick Walton](https://github.com/pcwalton)
 - [Philip Lamb](https://github.com/philip-lamb)
