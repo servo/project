@@ -39,27 +39,16 @@ Past members:
 
 The TSC meets in public, and all minutes are published.
 
-* [23 Jan 2023](tsc-2023-01-23.md)
-* [12 Dec 2022](tsc-2022-12-12.md)
-* [10 Dec 2021](tsc-2021-12-10.md)
-* [08 Oct 2021](tsc-2021-10-08.md)
-* [11 Jun 2021](tsc-2021-06-11.md)
-* [09 Apr 2021](tsc-2021-04-09.md)
-* [12 Feb 2021](tsc-2021-02-12.md)
-* [11 Dec 2020](tsc-2020-12-11.md)
-* [09 Oct 2020](tsc-2020-10-09.md)
+* 2023: [23 Jan](tsc-2023-01-23.md)
+* 2022: [12 Dec](tsc-2022-12-12.md)
+* 2021: [12 Feb](tsc-2021-02-12.md), [09 Apr](tsc-2021-04-09.md), [11 Jun](tsc-2021-06-11.md), [08 Oct](tsc-2021-10-08.md), [10 Dec](tsc-2021-12-10.md)
+* 2020: [09 Oct](tsc-2020-10-09.md), [11 Dec](tsc-2020-12-11.md)
 
 Launch subcommittee meetings:
-* [20 Nov 2020](launch-2020-11-20.md)
-* [13 Nov 2020](launch-2020-11-13.md)
-* [06 Nov 2020](launch-2020-11-06.md)
-* [30 Oct 2020](launch-2020-10-30.md)
-* [23 Oct 2020](launch-2020-10-23.md)
-* [16 Oct 2020](launch-2020-10-16.md)
+* 2020: [16 Oct](launch-2020-10-16.md), [23 Oct](launch-2020-10-23.md), [30 Oct](launch-2020-10-30.md), [06 Nov](launch-2020-11-06.md), [13 Nov](launch-2020-11-13.md), [20 Nov](launch-2020-11-20.md)
 
 Infrastructure subcommittee meetings:
-* [4 Dec 2020](infra-2020-12-04.md)
-* [27 Nov 2020](infra-2020-11-27.md)
+* 2020: [27 Nov](infra-2020-11-27.md), [4 Dec](infra-2020-12-04.md)
 
 ## Subcommittees
 
