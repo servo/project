@@ -39,6 +39,7 @@ Past members:
 
 The TSC meets in public, and all minutes are published.
 
+* [23 Jan 2023](tsc-2023-01-23.md)
 * [12 Dec 2022](tsc-2022-12-12.md)
 * [10 Dec 2021](tsc-2021-12-10.md)
 * [08 Oct 2021](tsc-2021-10-08.md)
