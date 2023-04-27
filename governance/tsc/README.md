@@ -35,6 +35,12 @@ Past members:
 - [Dzmitry Malyshau](https://github.com/kvark)
 - [Lars Bergstrom](https://github.com/larsbergstrom)
 
+### Policy to remove inactive members
+
+TSC members that have not joined any TSC meeting in 1 year and have not participated in any TSC Zulip discussions in 1 year will be contacted via email and Zulip to check if they want to keep being part of the TSC. If they do not reply in 2 weeks mentioning they want to keep being TSC members, they will be removed as official TSC members.
+
+Past members could at any point request to be added back to the official list of TSC members.
+
 ## Meetings
 
 The TSC meets in public, and all minutes are published.
