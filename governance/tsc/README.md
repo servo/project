@@ -8,7 +8,6 @@ Current members:
 
 - [Alan Jeffrey](https://github.com/asajeffrey)
 - [Anthony Ramine](https://github.com/nox)
-- [Connor Brewster](https://github.com/cbrewster)
 - [Cheng-You Bai](https://github.com/cybai)
 - [Delan Azabani](https://github.com/delan)
 - [Diane Hosfelt](https://github.com/avadacatavra)
@@ -20,6 +19,7 @@ Current members:
 - [Josh Aas](https://github.com/bdaehlie)
 - [Josh Matthews](https://github.com/jdm) (secretary)
 - [Keith Yeung](https://github.com/KiChjang)
+- [Lars Bergstrom](https://github.com/larsbergstrom)
 - [Manuel Rego](https://github.com/mrego) (chair)
 - [Manish Goregaokar](https://github.com/Manishearth)
 - [Martin Robinson](https://github.com/mrobinson)
@@ -27,13 +27,13 @@ Current members:
 - [Oriol Brufau](https://github.com/Loirooriol)
 - [Patrick Walton](https://github.com/pcwalton)
 - [Philip Lamb](https://github.com/philip-lamb)
-- [Paul Rouget](https://github.com/paulrouget)
 - [Simon Sapin](https://github.com/SimonSapin)
 
 Past members:
 
+- [Connor Brewster](https://github.com/cbrewster)
 - [Dzmitry Malyshau](https://github.com/kvark)
-- [Lars Bergstrom](https://github.com/larsbergstrom)
+- [Paul Rouget](https://github.com/paulrouget)
 
 ### Policy to remove inactive members
 
