@@ -12,7 +12,6 @@ Current members:
 - [Delan Azabani](https://github.com/delan)
 - [Diane Hosfelt](https://github.com/avadacatavra)
 - [Emilio Cobos Álvarez](https://github.com/emilio)
-- [Fernando Jiménez Moreno](https://github.com/ferjm)
 - [Jack Moffitt](https://github.com/metajack)
 - [James Graham](https://github.com/jgraham)
 - [Josh Aas](https://github.com/bdaehlie)
@@ -32,6 +31,7 @@ Past members:
 
 - [Connor Brewster](https://github.com/cbrewster)
 - [Dzmitry Malyshau](https://github.com/kvark)
+- [Fernando Jiménez Moreno](https://github.com/ferjm)
 - [Gregory Terzian](https://github.com/gterzian)
 - [Paul Rouget](https://github.com/paulrouget)
 
