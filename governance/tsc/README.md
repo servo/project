@@ -23,7 +23,6 @@ Current members:
 - [Martin Robinson](https://github.com/mrobinson)
 - [Mukilan Thiyagarajan](https://github.com/mukilan)
 - [Oriol Brufau](https://github.com/Loirooriol)
-- [Patrick Walton](https://github.com/pcwalton)
 - [Philip Lamb](https://github.com/philip-lamb)
 - [Simon Sapin](https://github.com/SimonSapin)
 
@@ -34,6 +33,7 @@ Past members:
 - [Fernando Jiménez Moreno](https://github.com/ferjm)
 - [Gregory Terzian](https://github.com/gterzian)
 - [Paul Rouget](https://github.com/paulrouget)
+- [Patrick Walton](https://github.com/pcwalton)
 
 ### Policy to remove inactive members
 
