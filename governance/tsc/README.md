@@ -7,33 +7,33 @@ The TSC is responsible for technical oversight of the Servo Project, as laid out
 Current members:
 
 - [Alan Jeffrey](https://github.com/asajeffrey)
-- [Anthony Ramine](https://github.com/nox)
 - [Cheng-You Bai](https://github.com/cybai)
 - [Delan Azabani](https://github.com/delan)
-- [Diane Hosfelt](https://github.com/avadacatavra)
 - [Emilio Cobos Álvarez](https://github.com/emilio)
 - [Jack Moffitt](https://github.com/metajack)
-- [James Graham](https://github.com/jgraham)
 - [Josh Aas](https://github.com/bdaehlie)
 - [Josh Matthews](https://github.com/jdm) (secretary)
-- [Keith Yeung](https://github.com/KiChjang)
 - [Lars Bergstrom](https://github.com/larsbergstrom)
 - [Manuel Rego](https://github.com/mrego) (chair)
 - [Manish Goregaokar](https://github.com/Manishearth)
 - [Martin Robinson](https://github.com/mrobinson)
 - [Mukilan Thiyagarajan](https://github.com/mukilan)
 - [Oriol Brufau](https://github.com/Loirooriol)
-- [Philip Lamb](https://github.com/philip-lamb)
 - [Simon Sapin](https://github.com/SimonSapin)
 
 Past members:
 
+- [Anthony Ramine](https://github.com/nox)
 - [Connor Brewster](https://github.com/cbrewster)
+- [Diane Hosfelt](https://github.com/avadacatavra)
 - [Dzmitry Malyshau](https://github.com/kvark)
 - [Fernando Jiménez Moreno](https://github.com/ferjm)
 - [Gregory Terzian](https://github.com/gterzian)
+- [James Graham](https://github.com/jgraham)
+- [Keith Yeung](https://github.com/KiChjang)
 - [Paul Rouget](https://github.com/paulrouget)
 - [Patrick Walton](https://github.com/pcwalton)
+- [Philip Lamb](https://github.com/philip-lamb)
 
 ### Policy to remove inactive members
 
