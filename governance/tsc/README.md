@@ -19,6 +19,7 @@ Current members:
 - [Martin Robinson](https://github.com/mrobinson)
 - [Mukilan Thiyagarajan](https://github.com/mukilan)
 - [Oriol Brufau](https://github.com/Loirooriol)
+- [Rakhi Sharma](https://github.com/atbrakhi)
 - [Simon Sapin](https://github.com/SimonSapin)
 
 Past members:
