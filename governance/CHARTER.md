@@ -16,14 +16,14 @@ with the terms of this Charter.
 a.  The mission of the Project is to provide an independent, modular, embeddable web engine, which allows developers to deliver content and applications using web standards.
 
 b.  The scope of the Project includes collaborative development under the Project License (as defined herein) supporting the mission, including documentation, testing, integration and the creation of other artifacts that aid the development, deployment, operation or adoption of the open source project.
-        
+
 ## 2.  Technical Steering Committee
 
-a.  The Technical Steering Committee (the "TSC") will be responsible for all technical oversight of the open source Project. 
+a.  The Technical Steering Committee (the "TSC") will be responsible for all technical oversight of the open source Project.
 
-b.  The TSC voting members are initially the Project's Committers. At the inception of the project, the Committers of the Project will be as set forth within the "CONTRIBUTING" file within the Project's code repository. The TSC may choose an alternative approach for determining the voting members of the TSC, and any such alternative approach will be documented in the CONTRIBUTING file. Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person. 
-        
-c.  TSC projects generally will involve Contributors and Committers. The TSC may adopt or modify roles so long as the roles are documented in the CONTRIBUTING file. Unless otherwise documented: 
+b.  The TSC voting members are initially the Project's Committers. At the inception of the project, the Committers of the Project will be as set forth within the "CONTRIBUTING" file within the Project's code repository. The TSC may choose an alternative approach for determining the voting members of the TSC, and any such alternative approach will be documented in the CONTRIBUTING file. Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
+
+c.  TSC projects generally will involve Contributors and Committers. The TSC may adopt or modify roles so long as the roles are documented in the CONTRIBUTING file. Unless otherwise documented:
 
 > i.  Contributors include anyone in the technical community that contributes code, documentation, or other technical artifacts to the Project;
 >
@@ -67,7 +67,7 @@ c.  Except as provided in Section 7.c. and 8.a, decisions by vote at a meeting r
 
 d.  In the event a vote cannot be resolved by the TSC, any voting member of the TSC may refer the matter to the Series Manager for assistance in reaching a resolution.
 
-## 4.  Compliance with Policies 
+## 4.  Compliance with Policies
 
 a.  This Charter is subject to the Series Agreement for the Project and the Operating Agreement of LF Projects. Contributors will comply with the policies of LF Projects as may be adopted and amended by LF Projects, including, without limitation the policies listed at https://lfprojects.org/policies/.
 
@@ -87,7 +87,7 @@ b.  The Project will, as permitted and in accordance with such license from LF P
 
 c.  Under no circumstances will LF Projects be expected or required to undertake any action on behalf of the Project that is inconsistent with the tax-exempt status or purpose, as applicable, of the Joint Development Foundation or LF Projects, LLC.
 
-## 6.  General Rules and Operations. 
+## 6.  General Rules and Operations.
 
 a.  The Project will:
 
@@ -97,25 +97,25 @@ a.  The Project will:
 
 ## 7.  Intellectual Property Policy
 
-a.  Collaborators acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project. 
+a.  Collaborators acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project.
 
-b.  Except as described in Section 7.c., all contributions to the Project are subject to the following: 
+b.  Except as described in Section 7.c., all contributions to the Project are subject to the following:
 
 > i. All new inbound code contributions to the Project must be made as follows:
 >
 > > 1.  contributions to the main Servo code base will be made under the Mozilla Public License, Version 2.0, available in the "LICENSE" file within the Project's code repository (the "Project License"); and
 > >
-> > 2.  contributions to subproject code bases that are not part of the main servo code base will be made under an open source license (approved as an open source license by the Open Source Initiative) that has been approved by the TSC. 
+> > 2.  contributions to subproject code bases that are not part of the main servo code base will be made under an open source license (approved as an open source license by the Open Source Initiative) that has been approved by the TSC.
 >
 > ii. All new inbound code contributions must also be accompanied by a Developer Certificate of Origin (http://developercertificate.org) sign-off in the source code system that is submitted through a TSC-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
 >
 > iii. All outbound code will be made available under the Project License.
 >
-> iv.  Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/). 
+> iv.  Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/).
 >
 > v. The Project may seek to integrate and contribute back to other open source projects ("Upstream Projects"). In such cases, the Project will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Project. Upstream Project code contributions not stored within the Project's main code repository will comply with the contribution process and license terms for the applicable Upstream Project.
 
-c.  The TSC may approve the use of an alternative license or licenses for inbound or outbound contributions on an exception basis. To request an exception, please describe the contribution, the alternative open source license(s), and the justification for using an alternative open source license for the Project. License exceptions must be approved by a two-thirds vote of the entire TSC. 
+c.  The TSC may approve the use of an alternative license or licenses for inbound or outbound contributions on an exception basis. To request an exception, please describe the contribution, the alternative open source license(s), and the justification for using an alternative open source license for the Project. License exceptions must be approved by a two-thirds vote of the entire TSC.
 
 d.  Contributed files should contain license information, such as SPDX short form identifiers, indicating the open source license or licenses pertaining to the file.
 
