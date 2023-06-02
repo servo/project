@@ -1,12 +1,12 @@
-# Technical Charter (the "Charter") for Servo Project a Series of LF Projects, LLC
+# Technical Charter (the "Charter") for Servo Project a Series of LF Europe
 
 *Adopted September 16, 2020*
 
 This Charter sets forth the responsibilities and procedures for
 technical contribution to, and oversight of, the Servo open source
-project, which has been established as Servo Project a Series of LF
-Projects, LLC (the "Project"). LF Projects, LLC ("LF Projects") is a
-Delaware series limited liability company. All contributors (including
+project, which has been established as a project of Linux Foundation
+Europe, a Belgian private stichting headquartered at Kunstlaan 56,
+Brussels (“LF Europe”). All contributors (including
 committers, maintainers, and other technical positions) and other
 participants in the Project (collectively, "Collaborators") must comply
 with the terms of this Charter.
@@ -21,7 +21,7 @@ b.  The scope of the Project includes collaborative development under the Projec
 
 a.  The Technical Steering Committee (the "TSC") will be responsible for all technical oversight of the open source Project.
 
-b.  The TSC voting members are initially the Project's Committers. At the inception of the project, the Committers of the Project will be as set forth within the "CONTRIBUTING" file within the Project's code repository. The TSC may choose an alternative approach for determining the voting members of the TSC, and any such alternative approach will be documented in the CONTRIBUTING file. Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
+b.  The TSC voting members are initially the Project's Committers. At the inception of the project, the Committers of the Project will be as set forth within the "CONTRIBUTING" file within the Project's code repository. The TSC may choose an alternative approach for determining the voting members of the TSC, and any such alternative approach will be documented in the CONTRIBUTING file. Any meetings of the Technical Steering Committee will be open to the public, and can be conducted electronically, via teleconference, or in person.
 
 c.  TSC projects generally will involve Contributors and Committers. The TSC may adopt or modify roles so long as the roles are documented in the CONTRIBUTING file. Unless otherwise documented:
 
@@ -35,7 +35,7 @@ d.  Participation in the Project through becoming a Contributor and Committer is
 
 e.  The TSC may (1) establish work flow procedures for the submission, approval, and closure/archiving of projects, (2) set requirements for the promotion of Contributors to Committer status, as applicable, and (3) amend, adjust, refine and/or eliminate the roles of Contributors, and Committers, and create new roles, and publicly document any TSC roles, as it sees fit.
 
-f.  The TSC will annually elect a TSC Chair, who will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC. The TSC Chair, or any other TSC member so designated by the TSC, will serve as the primary communication contact between the Project and the Servo Project Fund of The Linux Foundation.
+f.  The TSC will annually elect a TSC Chair, who will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC. The TSC Chair, or any other TSC member so designated by the TSC, will serve as the primary communication contact and any funding effort supporting the Project.
 
 g.  Responsibilities: The TSC will be responsible for all aspects of oversight relating to the Project, which may include:
 
@@ -51,7 +51,7 @@ g.  Responsibilities: The TSC will be responsible for all aspects of oversight r
 >
 > vi. establishing community norms, workflows, issuing releases, and security issue reporting policies;
 >
-> vii.  approving and implementing policies and processes for contributing (to be published in the CONTRIBUTING file) and coordinating with the series manager of the Project (as provided for in the Series Agreement, the "Series Manager") to resolve matters or concerns that may arise as set forth in Section 7 of this Charter;
+> vii.  approving and implementing policies and processes for contributing (to be published in the CONTRIBUTING file) and coordinating with LF Europe to resolve matters or concerns that may arise as set forth in Section 7 of this Charter;
 >
 > viii. discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
 >
@@ -69,29 +69,29 @@ d.  In the event a vote cannot be resolved by the TSC, any voting member of the 
 
 ## 4.  Compliance with Policies
 
-a.  This Charter is subject to the Series Agreement for the Project and the Operating Agreement of LF Projects. Contributors will comply with the policies of LF Projects as may be adopted and amended by LF Projects, including, without limitation the policies listed at https://lfprojects.org/policies/.
+a.  Contributors will comply with the policies of LF Europe as may be adopted and amended by LF Europe, including, without limitation the policies listed at https://lfprojects.org/policies/.
 
-b.  The TSC may adopt a code of conduct ("CoC") for the Project, which is subject to approval by the Series Manager. In the event that a Project-specific CoC has not been approved, the LF Projects Code of Conduct listed at https://lfprojects.org/policies will apply for all Collaborators in the Project.
+b.  The TSC may adopt a code of conduct ("CoC") for the Project, which is subject to approval by LF Europe. In the event that a Project-specific CoC has not been approved, the LF Europe Code of Conduct listed at https://lfprojects.org/policies will apply for all Collaborators in the Project.
 
-c.  When amending or adopting any policy applicable to the Project, LF Projects will publish such policy, as to be amended or adopted, on its web site at least 30 days prior to such policy taking effect; provided, however, that in the case of any amendment of the Trademark Policy or Terms of Use of LF Projects, any such amendment is effective upon publication on LF Project's web site.
+c.  When amending or adopting any policy applicable to the Project, LF Europe will publish such policy, as to be amended or adopted, on its web site at least 30 days prior to such policy taking effect; provided, however, that in the case of any amendment of the Trademark Policy or Terms of Use of LF Europe, any such amendment is effective upon publication on LF Europe's web site.
 
 d.  All Collaborators must allow open participation from any individual or organization meeting the requirements for contributing under this Charter and any policies adopted for all Collaborators by the TSC, regardless of competitive interests. Put another way, the Project community must not seek to exclude any participant based on any criteria, requirement, or reason other than those that are reasonable and applied on a non-discriminatory basis to all Collaborators in the Project community.
 
-e.  The Project will operate in a transparent, open, collaborative, and ethical manner at all times. The output of all Project discussions, proposals, timelines, decisions, and status should be made open and easily visible to all. Any potential violations of this requirement should be reported immediately to the Series Manager.
+e.  The Project will operate in a transparent, open, collaborative, and ethical manner at all times. The output of all Project discussions, proposals, timelines, decisions, and status should be made open and easily visible to all. Any potential violations of this requirement should be reported immediately to LF Europe.
 
 ## 5.  Community Assets
 
-a.  LF Projects will hold title to all trade or service marks used by the Project ("Project Trademarks"), whether based on common law or registered rights. Project Trademarks will be transferred and assigned to LF Projects to hold on behalf of the Project. Any use of any Project Trademarks by Collaborators in the Project will be in accordance with the license from LF Projects and inure to the benefit of LF Projects.
+a.  LF Europe will hold title to all trade or service marks used by the Project ("Project Trademarks"), whether based on common law or registered rights. Project Trademarks will be transferred and assigned to LF Europe to hold on behalf of the Project. Any use of any Project Trademarks by Collaborators in the Project will be in accordance with the license from LF Europe and inure to the benefit of LF Europe.
 
-b.  The Project will, as permitted and in accordance with such license from LF Projects, develop and own all Project GitHub and social media accounts, and domain name registrations created by the Project community.
+b.  The Project will, as permitted and in accordance with such license from LF Europe, develop and own all Project GitHub and social media accounts, and domain name registrations created by the Project community.
 
-c.  Under no circumstances will LF Projects be expected or required to undertake any action on behalf of the Project that is inconsistent with the tax-exempt status or purpose, as applicable, of the Joint Development Foundation or LF Projects, LLC.
+c.  Under no circumstances will LF Europe be expected or required to undertake any action on behalf of the Project that is inconsistent with the tax-exempt status or purpose, as applicable, of the Joint Development Foundation or LF Europe.
 
 ## 6.  General Rules and Operations.
 
 a.  The Project will:
 
-> i. engage in the work of the Project in a professional manner consistent with maintaining a cohesive community, while also maintaining the goodwill and esteem of LF Projects, LFP, Inc. and other partner organizations in the open source community; and
+> i. engage in the work of the Project in a professional manner consistent with maintaining a cohesive community, while also maintaining the goodwill and esteem of LF Europe and other partner organizations in the open source community; and
 >
 > ii. respect the rights of all trademark owners, including any branding and trademark usage guidelines.
 
@@ -121,4 +121,4 @@ d.  Contributed files should contain license information, such as SPDX short for
 
 ## 8.  Amendments
 
-a.  This charter may be amended by a two-thirds vote of the entire TSC and is subject to approval by LF Projects.
+a.  This charter may be amended by a two-thirds vote of the entire TSC and is subject to approval by Europe.
