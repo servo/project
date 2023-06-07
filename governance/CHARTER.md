@@ -121,4 +121,4 @@ d.  Contributed files should contain license information, such as SPDX short for
 
 ## 8.  Amendments
 
-a.  This charter may be amended by a two-thirds vote of the entire TSC and is subject to approval by Europe.
+a.  This charter may be amended by a two-thirds vote of the entire TSC and is subject to approval by LF Europe.
