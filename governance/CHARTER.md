@@ -1,6 +1,6 @@
 # Technical Charter (the "Charter") for Servo Project a Series of LF Europe
 
-*Adopted September 16, 2020*
+*Adopted June 15, 2023*
 
 This Charter sets forth the responsibilities and procedures for
 technical contribution to, and oversight of, the Servo open source
