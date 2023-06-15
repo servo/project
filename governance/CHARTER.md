@@ -1,4 +1,4 @@
-# Technical Charter (the "Charter") for Servo Project a Series of LF Europe
+# Technical Charter (the "Charter") for Servo Project
 
 *Adopted June 15, 2023*
 
