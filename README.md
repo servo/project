@@ -17,6 +17,6 @@ In this repo you can find the following things:
   * Charter: [`governance/CHARTER.md`](governance/CHARTER.md)
   * Technical Steering Committee (TSC): [`governance/tsc/README.md`](governance/tsc/README.md)
   * TSC meeting minutes: [`governance/tsc/`](governance/tsc/)
-* Servo logo: [`logo/`](logo/)
+* Servo logo: [`logo/README.md`](logo/README.md)
 * Servo mission: [`MISSION.md`](MISSION.md)
 
