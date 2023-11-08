@@ -20,6 +20,7 @@ Current members:
 - [Mukilan Thiyagarajan](https://github.com/mukilan)
 - [Oriol Brufau](https://github.com/Loirooriol)
 - [Rakhi Sharma](https://github.com/atbrakhi)
+- [Samson](https://github.com/sagudev)
 - [Simon Sapin](https://github.com/SimonSapin)
 
 Past members:
