@@ -19,6 +19,7 @@ Current members:
 - [Manish Goregaokar](https://github.com/Manishearth)
 - [Martin Robinson](https://github.com/mrobinson) (secretary)
 - [Mukilan Thiyagarajan](https://github.com/mukilan)
+- [Nico Burns](https://github.com/nicoburns)
 - [Oriol Brufau](https://github.com/Loirooriol)
 - [Rakhi Sharma](https://github.com/atbrakhi)
 - [Samson](https://github.com/sagudev)
