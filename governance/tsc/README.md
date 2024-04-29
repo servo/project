@@ -49,7 +49,7 @@ Past members could at any point request to be added back to the official list of
 The TSC meets in public, and all minutes are published.
 
 * 2024: [29 Jan](tsc-2024-01-29.md), [26 Feb](tsc-2024-02-26.md), [25 Mar](tsc-2024-03-25.md)
-* 2023: [23 Jan](tsc-2023-01-23.md), [20 Feb](tsc-2023-02-20.md), [20 Mar](tsc-2023-03-20.md), [25 Apr](tsc-2023-04-25.md), [30 May](tsc-2023-05-30.md), [26 Jun](tsc-2023-06-26.md), [7 Sep](tsc-2023-09-07.md), [9 Oct](tsc-2023-10-09.md), [15 Nov](tsc-2023-11-14.md), [12 Dec](tsc-2023-12-11.md)
+* 2023: [23 Jan](tsc-2023-01-23.md), [20 Feb](tsc-2023-02-20.md), [20 Mar](tsc-2023-03-20.md), [25 Apr](tsc-2023-04-25.md), [30 May](tsc-2023-05-30.md), [26 Jun](tsc-2023-06-26.md), [7 Sep](tsc-2023-09-07.md), [9 Oct](tsc-2023-10-09.md), [14 Nov](tsc-2023-11-14.md), [12 Dec](tsc-2023-12-11.md)
 * 2022: [12 Dec](tsc-2022-12-12.md)
 * 2021: [12 Feb](tsc-2021-02-12.md), [09 Apr](tsc-2021-04-09.md), [11 Jun](tsc-2021-06-11.md), [08 Oct](tsc-2021-10-08.md), [10 Dec](tsc-2021-12-10.md)
 * 2020: [09 Oct](tsc-2020-10-09.md), [11 Dec](tsc-2020-12-11.md)
