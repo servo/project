@@ -24,6 +24,7 @@ Current members:
 - [Rakhi Sharma](https://github.com/atbrakhi)
 - [Samson](https://github.com/sagudev)
 - [Simon Sapin](https://github.com/SimonSapin)
+- [Wu Yu Wei](https://github.com/wusyong)
 
 Past members:
 
