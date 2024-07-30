@@ -6,7 +6,6 @@ The TSC is responsible for technical oversight of the Servo Project, as laid out
 
 Current members:
 
-- [Alan Jeffrey](https://github.com/asajeffrey)
 - [Cheng-You Bai](https://github.com/cybai)
 - [Delan Azabani](https://github.com/delan)
 - [Emilio Cobos Álvarez](https://github.com/emilio)
@@ -28,6 +27,7 @@ Current members:
 
 Past members:
 
+- [Alan Jeffrey](https://github.com/asajeffrey)
 - [Anthony Ramine](https://github.com/nox)
 - [Connor Brewster](https://github.com/cbrewster)
 - [Diane Hosfelt](https://github.com/avadacatavra)
