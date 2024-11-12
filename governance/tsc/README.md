@@ -11,6 +11,7 @@ Current members:
 - [Emilio Cobos Álvarez](https://github.com/emilio)
 - [Gregory Terzian](https://github.com/gterzian)
 - [Jack Moffitt](https://github.com/metajack)
+- [Jonathan Schwender](https://github.com/jschwe)
 - [Josh Aas](https://github.com/bdaehlie)
 - [Josh Matthews](https://github.com/jdm)
 - [Lars Bergstrom](https://github.com/larsbergstrom)
