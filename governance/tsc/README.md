@@ -1,50 +1,6 @@
 # Servo Technical Steering Committee
 
-The TSC is responsible for technical oversight of the Servo Project, as laid out in the [charter](../CHARTER.md).
-
-## Membership
-
-Current members:
-
-- [Cheng-You Bai](https://github.com/cybai)
-- [Delan Azabani](https://github.com/delan)
-- [Emilio Cobos Álvarez](https://github.com/emilio)
-- [Gregory Terzian](https://github.com/gterzian)
-- [Jonathan Schwender](https://github.com/jschwe)
-- [Josh Matthews](https://github.com/jdm)
-- [Manuel Rego](https://github.com/mrego) (chair)
-- [Manish Goregaokar](https://github.com/Manishearth)
-- [Martin Robinson](https://github.com/mrobinson) (secretary)
-- [Mukilan Thiyagarajan](https://github.com/mukilan)
-- [Nico Burns](https://github.com/nicoburns)
-- [Oriol Brufau](https://github.com/Loirooriol)
-- [Rakhi Sharma](https://github.com/atbrakhi)
-- [Samson](https://github.com/sagudev)
-- [Simon Sapin](https://github.com/SimonSapin)
-- [Wu Yu Wei](https://github.com/wusyong)
-
-Past members:
-
-- [Alan Jeffrey](https://github.com/asajeffrey)
-- [Anthony Ramine](https://github.com/nox)
-- [Connor Brewster](https://github.com/cbrewster)
-- [Diane Hosfelt](https://github.com/avadacatavra)
-- [Dzmitry Malyshau](https://github.com/kvark)
-- [Fernando Jiménez Moreno](https://github.com/ferjm)
-- [Jack Moffitt](https://github.com/metajack)
-- [James Graham](https://github.com/jgraham)
-- [Josh Aas](https://github.com/bdaehlie)
-- [Keith Yeung](https://github.com/KiChjang)
-- [Lars Bergstrom](https://github.com/larsbergstrom)
-- [Paul Rouget](https://github.com/paulrouget)
-- [Patrick Walton](https://github.com/pcwalton)
-- [Philip Lamb](https://github.com/philip-lamb)
-
-### Policy to remove inactive members
-
-TSC members that have not joined any TSC meeting in 1 year and have not participated in any TSC Zulip discussions in 1 year will be contacted via email and Zulip to check if they want to keep being part of the TSC. If they do not reply in 2 weeks mentioning they want to keep being TSC members, they will be removed as official TSC members.
-
-Past members could at any point request to be added back to the official list of TSC members.
+The TSC is responsible for technical oversight of the Servo Project. Check the [following file](../README.md) for more information about the Servo project governance model.
 
 ## Meetings
 
