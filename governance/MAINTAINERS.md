@@ -36,8 +36,8 @@
 
 ## WebRender Maintainers
 
-- [Nicolas Silva (@nical)](https://github.com/@nical)
-- [Glenn Watson (@glennw)](https://github.com/@glennw)
+- [Nicolas Silva (@nical)](https://github.com/nical)
+- [Glenn Watson (@glennw)](https://github.com/glennw)
 
 > [!NOTE]
 > Check the [`README.md` file](README.md) for more information about the Servo project governance model.
