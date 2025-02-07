@@ -1,5 +1,6 @@
 # Servo Contributors
 
+- [@shanehandley](https://github.com/shanehandley)
 - [@webbeef](https://github.com/webbeef)
 
 > [!NOTE]
