@@ -15,6 +15,7 @@
 - [Rakhi Sharma (@atbrakhi)](https://github.com/atbrakhi)
 - [Samson (@sagudev)](https://github.com/sagudev)
 - [Simon Sapin (@SimonSapin)](https://github.com/SimonSapin)
+- [Taym Haddadi (@Taym95)](https://github.com/Taym95)
 - [Wu Yu Wei (@wusyong)](https://github.com/wusyong)
 
 ## Emeritus
