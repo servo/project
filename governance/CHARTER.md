@@ -21,19 +21,13 @@ b.  The scope of the Project includes collaborative development under the Projec
 
 a.  The Technical Steering Committee (the "TSC") will be responsible for all technical oversight of the open source Project.
 
-b.  The TSC voting members are initially the Project's Committers. At the inception of the project, the Committers of the Project will be as set forth within the "CONTRIBUTING" file within the Project's code repository. The TSC may choose an alternative approach for determining the voting members of the TSC, and any such alternative approach will be documented in the CONTRIBUTING file. Any meetings of the Technical Steering Committee will be open to the public, and can be conducted electronically, via teleconference, or in person.
+b.  The TSC voting members are as set forth within the [`servo/project` repository](https://github.com/servo/project/). The TSC may choose an alternative approach for determining the voting members of the TSC, and any such alternative approach will be documented in this repository. Any meetings of the Technical Steering Committee will be open to the public, and can be conducted electronically, via teleconference, or in person.
 
-c.  TSC projects generally will involve Contributors and Committers. The TSC may adopt or modify roles so long as the roles are documented in the CONTRIBUTING file. Unless otherwise documented:
+c.  The Project will involve Collaborators, Contributors and Maintainers. The TSC may adopt or modify roles so long as the roles are documented in the [`servo/project` repository](https://github.com/servo/project/).
 
-> i.  Contributors include anyone in the technical community that contributes code, documentation, or other technical artifacts to the Project;
->
-> ii. Committers are Contributors who have earned the ability to modify ("commit") source code, documentation or other technical artifacts in a project's repository; and
->
-> iii. A Contributor may become a Committer by a majority approval of the existing Committers. A Committer may be removed by a majority approval of the other existing Committers.
+d.  Participation in the Project through becoming a Collaborator, Contributor or Maintainer is open to anyone so long as they abide by the terms of this Charter.
 
-d.  Participation in the Project through becoming a Contributor and Committer is open to anyone so long as they abide by the terms of this Charter.
-
-e.  The TSC may (1) establish work flow procedures for the submission, approval, and closure/archiving of projects, (2) set requirements for the promotion of Contributors to Committer status, as applicable, and (3) amend, adjust, refine and/or eliminate the roles of Contributors, and Committers, and create new roles, and publicly document any TSC roles, as it sees fit.
+e.  The TSC may (1) establish work flow procedures for the submission, approval, and closure/archiving of projects, (2) set requirements for the promotion of Collaborators to Contributor status or Contributors to Maintainer status, as applicable, and (3) amend, adjust, refine and/or eliminate the roles of Contributors, and Maintainers, and create new roles, and publicly document any TSC roles, as it sees fit.
 
 f.  The TSC will annually elect a TSC Chair, who will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC. The TSC Chair, or any other TSC member so designated by the TSC, will serve as the primary communication contact and any funding effort supporting the Project.
 
@@ -51,7 +45,7 @@ g.  Responsibilities: The TSC will be responsible for all aspects of oversight r
 >
 > vi. establishing community norms, workflows, issuing releases, and security issue reporting policies;
 >
-> vii.  approving and implementing policies and processes for contributing (to be published in the CONTRIBUTING file) and coordinating with LF Europe to resolve matters or concerns that may arise as set forth in Section 7 of this Charter;
+> vii.  approving and implementing policies and processes for contributing (to be published in the [`servo/project` repository](https://github.com/servo/project/)) and coordinating with LF Europe to resolve matters or concerns that may arise as set forth in Section 7 of this Charter;
 >
 > viii. discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
 >
