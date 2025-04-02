@@ -1,22 +1,22 @@
 # Servo Technical Steering Committee Members
 
-- [Cheng-You Bai (@cybai)](https://github.com/cybai)
-- [Delan Azabani (@delan)](https://github.com/delan)
-- [Emilio Cobos Álvarez (@emilio)](https://github.com/emilio)
-- [Gregory Terzian (@gterzian)](https://github.com/gterzian)
-- [Jonathan Schwender (@jschwe)](https://github.com/jschwe)
-- [Josh Matthews (@jdm)](https://github.com/jdm)
-- [Manish Goregaokar (@Manishearth)](https://github.com/Manishearth)
-- [Manuel Rego (@mrego)](https://github.com/mrego) - *chair*
-- [Martin Robinson (@mrobinson)](https://github.com/mrobinson) - *secretary*
-- [Mukilan Thiyagarajan (@mukilan)](https://github.com/mukilan)
-- [Nico Burns (@nicoburns)](https://github.com/nicoburns)
-- [Oriol Brufau (@Loirooriol)](https://github.com/Loirooriol)
-- [Rakhi Sharma (@atbrakhi)](https://github.com/atbrakhi)
-- [Samson (@sagudev)](https://github.com/sagudev)
-- [Simon Sapin (@SimonSapin)](https://github.com/SimonSapin)
-- [Taym Haddadi (@Taym95)](https://github.com/Taym95)
-- [Wu Yu Wei (@wusyong)](https://github.com/wusyong)
+- [Cheng-You Bai (@cybai)](https://github.com/cybai) - unaffiliated
+- [Delan Azabani (@delan)](https://github.com/delan) - Igalia
+- [Emilio Cobos Álvarez (@emilio)](https://github.com/emilio) - Mozilla
+- [Gregory Terzian (@gterzian)](https://github.com/gterzian) - unaffiliated
+- [Jonathan Schwender (@jschwe)](https://github.com/jschwe) - Huawei
+- [Josh Matthews (@jdm)](https://github.com/jdm) - unaffiliated
+- [Manish Goregaokar (@Manishearth)](https://github.com/Manishearth) - unaffiliated
+- [Manuel Rego (@mrego)](https://github.com/mrego) - Igalia [*chair*]
+- [Martin Robinson (@mrobinson)](https://github.com/mrobinson) - Igalia [*secretary*]
+- [Mukilan Thiyagarajan (@mukilan)](https://github.com/mukilan) - Igalia
+- [Nico Burns (@nicoburns)](https://github.com/nicoburns) - unaffiliated
+- [Oriol Brufau (@Loirooriol)](https://github.com/Loirooriol) - Igalia
+- [Rakhi Sharma (@atbrakhi)](https://github.com/atbrakhi) - Igalia
+- [Samson (@sagudev)](https://github.com/sagudev) - unaffiliated
+- [Simon Sapin (@SimonSapin)](https://github.com/SimonSapin) - unaffiliated
+- [Taym Haddadi (@Taym95)](https://github.com/Taym95) - unaffiliated
+- [Wu Yu Wei (@wusyong)](https://github.com/wusyong) - unaffiliated
 
 ## Emeritus
 
