@@ -20,6 +20,7 @@
 - [Simon Sapin (@SimonSapin)](https://github.com/SimonSapin)
 - [Simon Wülker (@simonwuelker)](https://github.com/simonwuelker)
 - [Taym Haddadi (@Taym95)](https://github.com/Taym95)
+- [Xiaocheng Hu (@xiaochengh)](https://github.com/xiaochengh)
 
 ## core-foundation Maintainers
 
