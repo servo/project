@@ -6,7 +6,7 @@ The TSC is responsible for technical oversight of the Servo Project. Check the [
 
 The TSC meets in public, and all minutes are published.
 
-* 2025: [24 Feb](tsc-2025-02-24.md), [31 Mar](tsc-2025-03-31.md)
+* 2025: [24 Feb](tsc-2025-02-24.md), [31 Mar](tsc-2025-03-31.md), [28 Apr](tsc-2025-04-28.md)
 * 2024: [29 Jan](tsc-2024-01-29.md), [26 Feb](tsc-2024-02-26.md), [25 Mar](tsc-2024-03-25.md), [29 Apr](tsc-2024-04-29.md), [28 May](tsc-2024-05-28.md), [24 Jun](tsc-2024-06-24.md), [29 Jul](tsc-2024-07-29.md), [23 Sep](tsc-2024-09-23.md), [28 Oct](tsc-2024-10-28.md), [25 Nov](tsc-2024-11-25.md), [16 Dec](tsc-2024-12-16.md)
 * 2023: [23 Jan](tsc-2023-01-23.md), [20 Feb](tsc-2023-02-20.md), [20 Mar](tsc-2023-03-20.md), [25 Apr](tsc-2023-04-25.md), [30 May](tsc-2023-05-30.md), [26 Jun](tsc-2023-06-26.md), [7 Sep](tsc-2023-09-07.md), [9 Oct](tsc-2023-10-09.md), [14 Nov](tsc-2023-11-14.md), [12 Dec](tsc-2023-12-11.md)
 * 2022: [12 Dec](tsc-2022-12-12.md)
