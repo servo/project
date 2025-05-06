@@ -27,6 +27,10 @@
 - [Bruce Mitchener (@waywardmonkeys)](https://github.com/waywardmonkeys)
 - [Jeff Muizelaar (@jrmuizel)](https://github.com/jrmuizel)
 
+## euclid Maintainers
+
+- [Nicolas Silva (@nical)](https://github.com/nical)
+
 ## rust-smallvec Maintainers
 
 - [Matt Brubeck (@mbrubeck)](https://github.com/mbrubeck)
