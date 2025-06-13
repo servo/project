@@ -1,5 +1,6 @@
 # Servo Contributors
 
+- [Andrei Volykhin (@tharkum)](https://github.com/tharkum)
 - [DK Liao (@dklassic)](https://github.com/dklassic)
 - [Sebastian C (@sebsebmc)](https://github.com/sebsebmc)
 - [@shanehandley](https://github.com/shanehandley)
