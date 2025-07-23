@@ -9,6 +9,7 @@
 - [Sebastian C (@sebsebmc)](https://github.com/sebsebmc)
 - [Steven Novaryo (@stevennovaryo)](https://github.com/stevennovaryo)
 - [Tim van der Lippe (@TimvdLippe)](https://github.com/TimvdLippe)
+- [Usman Baba Yahaya (@uthmaniv)](https;//github.com/uthmaniv)
 
 > [!NOTE]
 > Check the [`README.md` file](README.md) for more information about the Servo project governance model.
