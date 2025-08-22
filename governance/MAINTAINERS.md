@@ -6,6 +6,7 @@
 - [Daniel Adams (@msub2)](https://github.com/msub2)
 - [Delan Azabani (@delan)](https://github.com/delan)
 - [Emilio Cobos Álvarez (@emilio)](https://github.com/emilio)
+- [Euclid Ye (@yezhizhen)](https://github.com/yezhizhen)
 - [Gregory Terzian (@gterzian)](https://github.com/gterzian)
 - [Jonathan Schwender (@jschwe)](https://github.com/jschwe)
 - [Josh Matthews (@jdm)](https://github.com/jdm)
