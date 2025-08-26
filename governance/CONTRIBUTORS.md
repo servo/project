@@ -1,5 +1,6 @@
 # Servo Contributors
 
+- [@lumiscosity](https://github.com/lumiscosity)
 - [@shanehandley](https://github.com/shanehandley)
 - [@webbeef](https://github.com/webbeef)
 - [Andrei Volykhin (@tharkum)](https://github.com/tharkum)
