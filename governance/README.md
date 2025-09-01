@@ -79,3 +79,21 @@ A **TSC Member** nominates a person in the private *TSC* channel in Zulip explai
 
 People will be removed from this team after one year of no activity, and would be recognized as **Emeritus TSC Members**. A majority of **TSC Members** can also vote to remove a **TSC Member**.
 
+## Administrators
+
+This is a smaller group of people group of people (maximum 5) that have administrator permissions in the Servo organization and repositories. Administrators would be also the [organization owners](https://github.com/orgs/servo/people?query=role%3Aowner).
+
+[Linux Foundation Europe](https://github.com/LF-Europe) would be always an extra administrator and owner while the project is hosted there.
+
+### Requirements
+
+To be recognized with **Administrator** status, a community member must demonstrate to be trusted as a **TSC Member** of the Servo project for a significant amount of time.
+
+### Nomination
+
+If there's an available slot in the group a **TSC Member** nominates a person in the private *TSC* channel in Zulip explaining the reasons why that person should become **Administrator**. A majority of the **TSC Members** must approve the addition. If the vote succeeds and no objections are raised within one week, the person is added to the **Administrators** team.
+
+### Removal
+
+People will be removed from this team after one year of no activity. A majority of **TSC Members** can also vote to remove an **Administrator**.
+
