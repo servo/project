@@ -87,7 +87,7 @@ This is a smaller group of people group of people (maximum 5) that have administ
 
 ### Requirements
 
-To be recognized with **Administrator** status, a community member must demonstrate to be trusted as a **TSC Member** of the Servo project for a significant amount of time.
+To be recognized with **Administrator** status, a community member must be a **TSC Member** of the Servo project for a significant amount of time who has demonstrated to be trusted by the Servo community.
 
 ### Nomination
 
