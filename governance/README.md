@@ -91,7 +91,7 @@ To be recognized with **Administrator** status, a community member must be a **T
 
 ### Nomination
 
-If there's an available slot in the group a **TSC Member** nominates a person in the private *TSC* channel in Zulip explaining the reasons why that person should become **Administrator**. A majority of the **TSC Members** must approve the addition. If the vote succeeds and no objections are raised within one week, the person is added to the **Administrators** team.
+If there's an available administrator slot, a **TSC Member** can nominate a new administrator in the private *TSC* Zulip channel. The nomination should explain why that person should become **Administrator**. A majority of the **TSC Members** must approve the addition. If the vote succeeds and no objections are raised within one week, the person is added to the **Administrators** team.
 
 ### Removal
 
