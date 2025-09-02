@@ -81,7 +81,7 @@ People will be removed from this team after one year of no activity, and would b
 
 ## Administrators
 
-This is a smaller group of people group of people (maximum 5) that have administrator permissions in the Servo organization and repositories. Administrators would be also the [organization owners](https://github.com/orgs/servo/people?query=role%3Aowner).
+This is a smaller group of people group of people (maximum 5) that have administrator permissions in the Servo organization and repositories. Administrators are also assigned [ownership](https://github.com/orgs/servo/people?query=role%3Aowner) of the Servo GitHub organization.
 
 [Linux Foundation Europe](https://github.com/LF-Europe) would be always an extra administrator and owner while the project is hosted there.
 
