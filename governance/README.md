@@ -95,5 +95,8 @@ If there's an available administrator slot, a **TSC Member** can nominate a new 
 
 ### Removal
 
-People will be removed from this team after one year of no activity. A majority of **TSC Members** can also vote to remove an **Administrator**.
+Administrators can be removed in several ways:
+ - They are automatically removed after one year of inactivity.
+ - A majority of the **TSC** can vote to remove an **Administrator**.
+ - Any **Administrator** can choose to step down by sending a message to the private *TSC* Zulip channel.
 
