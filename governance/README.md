@@ -87,7 +87,7 @@ In addition, as long as [Linux Foundation Europe](https://github.com/LF-Europe) 
 
 ### Requirements
 
-To be recognized with **Administrator** status, a community member must be a **TSC Member** of the Servo project for a significant amount of time who has demonstrated to be trusted by the Servo community.
+To be assigned **Administrator** status, a community member must have been a **TSC Member** for a significant amount of time and have the trust of the Servo community.
 
 ### Nomination
 
