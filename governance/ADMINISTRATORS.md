@@ -34,3 +34,6 @@ To get a GITHUB_TOKEN for testing the monitor service:
     - Repository permissions > **Administration** > Access: **Read and write** (unfortunately there is no separate permission for repository self-hosted runners)
  
 To send token to CI admin use 1password: <https://support.1password.com/share-items> or share password protected zip (password and zip should be send over differnet platforms for additional security).
+
+All active tokens are listed here: <https://github.com/organizations/servo/settings/personal-access-tokens/active>
+
