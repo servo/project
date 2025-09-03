@@ -33,6 +33,14 @@ To get a GITHUB_TOKEN for testing the monitor service:
     - Repository access > **Only select repositories** > your clone of servo/servo
     - Repository permissions > **Administration** > Access: **Read and write** (unfortunately there is no separate permission for repository self-hosted runners)
  
+> [!NOTE]
+> Ideally tokens are always rotated before they expire.
+> However, it can sometimes happen that tokens expire, which causes the runners to go offline.
+
+> [!TIP]
+> In cases where we have redundant runners, it is recommended to create at least 2 different tokens, with differing expiration times (ideally 30+ days apart).
+> This prevents all runners from going offline if a token expires, and gives us leeway to rotate tokens in an orderly manner, since only a portion of runners will go down at a time if a token was not rotated in time.
+ 
 To send token to CI admin use 1password: <https://support.1password.com/share-items> or share password protected zip (password and zip should be send over differnet platforms for additional security).
 
 All active tokens are listed here: <https://github.com/organizations/servo/settings/personal-access-tokens/active>
