@@ -45,3 +45,9 @@ Requests should include answers to the following questions:
 * What is the expected benefit to the Servo project?
 * What are the risks if this request isn't funded?
 * Why you? What skills or experience make you a good candidate for this request?
+
+# Funding logistics
+
+All approved funding requests will be paid through [Open Collective](https://opencollective.com/servo), which provides an [FAQ](https://docs.opencollective.com/oceurope/how-it-works/expenses/expenses-and-getting-paid-faqs).
+To receive the funds, you will need to have a PayPal account or the ability to receive a bank transfer.
+While legal identifying information may be required, this information will only be visible to Open Collective project admins.
