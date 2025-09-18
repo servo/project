@@ -18,4 +18,5 @@ In this repo you can find the following things:
   * TSC meeting minutes: [`governance/tsc/`](governance/tsc/)
 * Servo logo: [`logo/README.md`](logo/README.md)
 * Servo mission & vision: [`MISSION_AND_VISION.md`](MISSION_AND_VISION.md)
+* Requests for funding: [`FUNDING_REQUEST.md`](FUNDING_REQUEST.md)
 
