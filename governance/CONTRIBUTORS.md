@@ -8,6 +8,7 @@
 - [batu_hoang (@longvatrong111)](https://github.com/longvatrong111)
 - [DK Liao (@dklassic)](https://github.com/dklassic)
 - [Euclid Ye (@yezhizhen)](https://github.com/yezhizhen)
+- [Kenzie Raditya Tirtarahardja (@PotatoCP)](https://github.com/PotatoCP)
 - [Kingsley Yung (@kkoyung)](https://github.com/kkoyung)
 - [Sebastian C (@sebsebmc)](https://github.com/sebsebmc)
 - [Steven Novaryo (@stevennovaryo)](https://github.com/stevennovaryo)
