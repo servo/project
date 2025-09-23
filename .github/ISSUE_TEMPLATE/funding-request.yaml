@@ -1,0 +1,81 @@
+name: Funding Request
+description: Request funding for Servo-related activities.
+labels: ["funding: request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please before sending a funding request review [`FUNDING_REQUEST.md`](https://github.com/servo/project/blob/main/FUNDING_REQUEST.md) file on this repository.
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: Brief description of the funding request.
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: High level explanation of the funding request.
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      description: Category of the funding request.
+      options:
+        - Shared resources
+        - Reimbursement for time/resources
+    validations:
+      required: true
+  - type: input
+    id: cost
+    attributes:
+      label: Cost
+      description: What is the expected cost?
+    validations:
+      required: true
+  - type: input
+    id: periodicity
+    attributes:
+      label: Periodicity
+      description: Is this cost a one time payment or recurring?
+    validations:
+      required: true
+  - type: textarea
+    id: benefits
+    attributes:
+      label: Benefits
+      description: What are the expected benefits to the Servo project?
+    validations:
+      required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: Rists
+      description: What are the risks if this request isn't funded?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives
+      description: What alternatives were considered?
+  - type: textarea
+    id: administrator
+    attributes:
+      label: Administrator
+      description: Who will administer this resource, if applicable?
+  - type: textarea
+    id: experience
+    attributes:
+      label: Experience
+      description: Why you, if applicable? What skills or experience make you a good candidate for this request?
+  - type: textarea
+    id: comments
+    attributes:
+      label: Other comments
+      description: Any other comments or clarifications.
+
