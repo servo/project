@@ -1,6 +1,6 @@
 name: Funding Request
 description: Request funding for Servo-related activities.
-labels: ["funding: request"]
+labels: ["funding", "funding: request"]
 body:
   - type: markdown
     attributes:
