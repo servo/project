@@ -6,13 +6,6 @@ body:
     attributes:
       value: |
         Please before sending a funding request review [`FUNDING_REQUEST.md`](https://github.com/servo/project/blob/main/FUNDING_REQUEST.md) file on this repository.
-  - type: input
-    id: title
-    attributes:
-      label: Title
-      description: Brief description of the funding request.
-    validations:
-      required: true
   - type: textarea
     id: summary
     attributes:
