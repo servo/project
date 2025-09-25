@@ -2,7 +2,7 @@
 
 All use of Servo project funds must be approved by the [Servo TSC](governance/tsc/README.md).
 
-To make a funding request, create a [new issue on this repository using the *Funding Request* template](https://github.com/servo/project/issues/new?template=funding_request.yaml). Then open a Zulip discussion in the [#tsc channel](https://servo.zulipchat.com/#narrow/channel/500774-tsc/) that contains whatever context is necessary to evaluate the request pointing to the issue.
+To make a funding request, create a [new issue on this repository using the *Funding Request* template](https://github.com/servo/project/issues/new?template=funding-request.yaml). Then open a Zulip discussion in the [#tsc channel](https://servo.zulipchat.com/#narrow/channel/500774-tsc/) that contains whatever context is necessary to evaluate the request pointing to the issue.
 
 Requests for funding fall into two categories:
 1. Shared resources
