@@ -1,5 +1,6 @@
 # Servo Contributors
 
+- [@Gae24](https://github.com/Gae24)
 - [@lumiscosity](https://github.com/lumiscosity)
 - [@shanehandley](https://github.com/shanehandley)
 - [@webbeef](https://github.com/webbeef)
@@ -10,6 +11,7 @@
 - [Euclid Ye (@yezhizhen)](https://github.com/yezhizhen)
 - [Kenzie Raditya Tirtarahardja (@PotatoCP)](https://github.com/PotatoCP)
 - [Kingsley Yung (@kkoyung)](https://github.com/kkoyung)
+- [Rodion Borovyk (@rodio)](https://github.com/rodio)
 - [Sebastian C (@sebsebmc)](https://github.com/sebsebmc)
 - [Steven Novaryo (@stevennovaryo)](https://github.com/stevennovaryo)
 - [Tim van der Lippe (@TimvdLippe)](https://github.com/TimvdLippe)
