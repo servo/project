@@ -29,7 +29,7 @@ To be recognized with **Contributor** status, a community member must demonstrat
 
 ### Nomination
 
-A **Maintainer** requests the addition of a new **Contributor** in the private *Maintainers* channel in Zulip, listing the number of nontrival contributions by that person. A person may also request that a **Maintainer** nominates them and vouch for them. If no objections are raised within one week, the person is added to the **Contributors** team. Additionally, if four other maintainers express support before the week has elapsed then there is no need to wait out the remaining time.
+A **Maintainer** requests the addition of a new **Contributor** in the private *Maintainers* channel in Zulip, listing the number of nontrival contributions by that person. A person may also request that a **Maintainer** nominates them and vouch for them. If no objections are raised within one week, the person is added to the **Contributors** team. Additionally, if four other maintainers express support after at least two days have elapsed then there is no need to wait out the remaining time.
 
 ### Removal
 
