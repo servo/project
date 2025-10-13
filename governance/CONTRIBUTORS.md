@@ -14,7 +14,6 @@
 - [Rodion Borovyk (@rodio)](https://github.com/rodio)
 - [Sebastian C (@sebsebmc)](https://github.com/sebsebmc)
 - [Steven Novaryo (@stevennovaryo)](https://github.com/stevennovaryo)
-- [Tim van der Lippe (@TimvdLippe)](https://github.com/TimvdLippe)
 - [Usman Baba Yahaya (@uthmaniv)](https://github.com/uthmaniv)
 
 > [!NOTE]
