@@ -11,6 +11,7 @@
 - [Euclid Ye (@yezhizhen)](https://github.com/yezhizhen)
 - [Kenzie Raditya Tirtarahardja (@PotatoCP)](https://github.com/PotatoCP)
 - [Kingsley Yung (@kkoyung)](https://github.com/kkoyung)
+- [Philipp Albrecht (@pylbrecht)](https://github.com/pylbrecht)
 - [Rodion Borovyk (@rodio)](https://github.com/rodio)
 - [Sebastian C (@sebsebmc)](https://github.com/sebsebmc)
 - [Steven Novaryo (@stevennovaryo)](https://github.com/stevennovaryo)
