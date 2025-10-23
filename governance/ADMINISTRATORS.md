@@ -45,3 +45,9 @@ To send token to CI admin use 1password: <https://support.1password.com/share-it
 
 All active tokens are listed here: <https://github.com/organizations/servo/settings/personal-access-tokens/active>
 
+## Dependabot tokens
+
+The servo repository has a [workflow](https://github.com/servo/servo/blob/main/.github/workflows/auto-merge-updates.yml) for automatically merging and approving pull requests from dependabot.
+This workflow requires that the token be generated from the @servo-bot user account.
+Credentials for the @servo-bot account is available on 1password.
+Note that the token needs to be created under the 'Secrets and Variables > Dependabot' page instead of the usual 'Secrets and Variables > Actions' page.
