@@ -85,6 +85,10 @@ This is a smaller group of people group of people (maximum 5) that have administ
 
 In addition, as long as [Linux Foundation Europe](https://github.com/LF-Europe) hosts the project, it is also included in the list of administrators as well.
 
+### Current Members
+
+Current **Administrators** are listed in [the `ADMINISTRATORS.md` file](ADMINISTRATORS.md).
+
 ### Requirements
 
 To be assigned **Administrator** status, a community member must have been a **TSC Member** for a significant amount of time and have the trust of the Servo community.
