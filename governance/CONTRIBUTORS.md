@@ -8,6 +8,7 @@
 - [Ashwin Naren (@arihant2math)](https://github.com/arihant2math)
 - [batu_hoang (@longvatrong111)](https://github.com/longvatrong111)
 - [DK Liao (@dklassic)](https://github.com/dklassic)
+- [Eri Pazos (@eerii)](https://github.com/eerii)
 - [Euclid Ye (@yezhizhen)](https://github.com/yezhizhen)
 - [Kenzie Raditya Tirtarahardja (@PotatoCP)](https://github.com/PotatoCP)
 - [Kingsley Yung (@kkoyung)](https://github.com/kkoyung)
