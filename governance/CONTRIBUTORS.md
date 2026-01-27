@@ -12,7 +12,7 @@
 - [Jan Varga (@janvarga)](https://github.com/janvarga)
 - [Kenzie Raditya Tirtarahardja (@PotatoCP)](https://github.com/PotatoCP)
 - [Kingsley Yung (@kkoyung)](https://github.com/kkoyung)
-- [Luke Barlow (@lukebarlow)](https://github.com/lukebarlow)
+- [Luke Warlow (@lukewarlow)](https://github.com/lukewarlow)
 - [Philipp Albrecht (@pylbrecht)](https://github.com/pylbrecht)
 - [Rodion Borovyk (@rodio)](https://github.com/rodio)
 - [Sebastian C (@sebsebmc)](https://github.com/sebsebmc)
