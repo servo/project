@@ -2,6 +2,7 @@
 
 - [@Gae24](https://github.com/Gae24)
 - [@lumiscosity](https://github.com/lumiscosity)
+- [@Narfinger](https://github.com/Narfinger/)
 - [@shanehandley](https://github.com/shanehandley)
 - [@webbeef](https://github.com/webbeef)
 - [Andrei Volykhin (@tharkum)](https://github.com/tharkum)
