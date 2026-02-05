@@ -17,6 +17,7 @@
 - [Philipp Albrecht (@pylbrecht)](https://github.com/pylbrecht)
 - [Rodion Borovyk (@rodio)](https://github.com/rodio)
 - [Sebastian C (@sebsebmc)](https://github.com/sebsebmc)
+- [Shubham Gupta (@shubhamg13)](https://github.com/shubhamg13)
 - [Steven Novaryo (@stevennovaryo)](https://github.com/stevennovaryo)
 - [TIN TUN AUNG (@rayguo17)](https://github.com/rayguo17/)
 - [Usman Baba Yahaya (@uthmaniv)](https://github.com/uthmaniv)
