@@ -29,7 +29,17 @@ Examples of appropriate funding requests include:
 * grant for implementing a specific feature
 * paid work on recurring project activities
 
-# Funding logistics
+## Funding timelines
+
+Recurring funding requests will have the following conditions:
+* Trial period (3 months): After 3 months, the people behind the funding request should do a brief report on the highlights during the initial 3 months. The TSC would decide if we continue or stop the funding request.
+* Re-evaluation (after 12 months): All funding requests expire after 1 year. They can be renewed by requesting a continuation and getting approval by the TSC.
+
+## Funding cancellation
+
+If the financial situation of the Servo project changes significantly, the TSC might decide to stop any of the ongoing funding requests.
+
+## Funding logistics
 
 All approved funding requests will be paid through [Open Collective](https://opencollective.com/servo), which provides an [FAQ](https://docs.opencollective.com/oceurope/how-it-works/expenses/expenses-and-getting-paid-faqs).
 
