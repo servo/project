@@ -10,6 +10,7 @@
 - [Gregory Terzian (@gterzian)](https://github.com/gterzian)
 - [Jonathan Schwender (@jschwe)](https://github.com/jschwe)
 - [Josh Matthews (@jdm)](https://github.com/jdm)
+- [Kingsley Yung (@kkoyung)](https://github.com/kkoyung)
 - [Manish Goregaokar (@Manishearth)](https://github.com/Manishearth)
 - [Manuel Rego (@mrego)](https://github.com/mrego)
 - [Martin Robinson (@mrobinson)](https://github.com/mrobinson)
