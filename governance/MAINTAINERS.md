@@ -1,11 +1,13 @@
 # Servo Maintainers
 
+- [@Gae24](https://github.com/Gae24)
 - [Alex Touchet (@atouchet)](https://github.com/atouchet)
 - [atbrakhi (@atbrakhi)](https://github.com/atbrakhi)
 - [cybai (Haku) (@CYBAI)](https://github.com/CYBAI)
 - [Daniel Adams (@msub2)](https://github.com/msub2)
 - [Delan Azabani (@delan)](https://github.com/delan)
 - [Emilio Cobos Álvarez (@emilio)](https://github.com/emilio)
+- [Eri Pazos (@eerii)](https://github.com/eerii)
 - [Euclid Ye (@yezhizhen)](https://github.com/yezhizhen)
 - [Gregory Terzian (@gterzian)](https://github.com/gterzian)
 - [Jonathan Schwender (@jschwe)](https://github.com/jschwe)
@@ -19,6 +21,7 @@
 - [Nico Burns (@nicoburns)](https://github.com/nicoburns)
 - [Oriol Brufau (@Loirooriol)](https://github.com/Loirooriol)
 - [Samson (@sagudev)](https://github.com/sagudev)
+- [Sebastian C (@sebsebmc)](https://github.com/sebsebmc)
 - [Simon Sapin (@SimonSapin)](https://github.com/SimonSapin)
 - [Simon Wülker (@simonwuelker)](https://github.com/simonwuelker)
 - [Taym Haddadi (@Taym95)](https://github.com/Taym95)
