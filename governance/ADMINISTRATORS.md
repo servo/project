@@ -52,6 +52,48 @@ This workflow requires that the token be generated from the @servo-bot user acco
 Credentials for the @servo-bot account is available on 1password.
 Note that the token needs to be created under the 'Secrets and Variables > Dependabot' page instead of the usual 'Secrets and Variables > Actions' page.
 
+## MacOS code signing and notarization
+
+### Generate the credentials
+
+The designated signer should have an Apple Developer account, with a valid developer subscription.
+
+Follow the steps from the Apple Developer documentation to [generate a new developer ID certificate](https://developer.apple.com/help/account/certificates/create-developer-id-certificates).
+When creating the certificate (step 3 of the guide), select "Developer ID Application" (for distribution outside the App Store) and press continue.
+On the next page choose "Previous Sub-CA" as the `Profile Type` and continue with step 4 until you finish the steps in the guide.
+
+Afterwards determine the `Team ID` by visiting https://developer.apple.com/account, logging in and scrolling down to "Membership details" and note the `Team ID`.
+
+Create a new app-specific password for the account:
+ - Go to https://appleid.apple.com/
+ - Sign in and navigate to "Sign-in and Security"
+ - Click on "App-Specific Passwords"
+ - Generate a new app-specific password and save the password to 1password.
+
+### Sign and notarize the ServoShell app
+
+To simplify signing, save the credentials in your local keychain by running:
+
+```shell
+# servo-notary is the name of the credentials, you can choose another name.
+xcrun notarytool store-credentials servo-notary --apple-id <appleid_email> --team-id <TEAM_ID> --password <app_specific_password>
+```
+
+```shell
+./mach build --production && ./mach package --production --preserve-app
+export SERVO_CODESIGN_IDENTITY="Developer ID Application: <Developer Name> (<TEAM_ID>)"
+# The name of the keychain profile to use for notarization (see step above).
+export SERVO_NOTARY_KEYCHAIN_PROFILE="servo-notary"
+# This step may take a while
+./etc/macos_sign.py --app target/production/Servo.app --sign --notarize
+# Once the notarization request has been submitted, we need to wait for it to complete.
+# You can check the status of the notarization request by running:
+./etc/macos_sign.py --check-status
+# If the request has been accepted, staple the notarization into the dmg
+./etc/macos_sign.py --check-status --staple-if-accepted
+# Upload the dmg from ./etc/notarization/ to the release page on GitHub
+```
+
 ## Automated sync tokens
 
 We currently have two automated sync setups:
