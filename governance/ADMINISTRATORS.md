@@ -73,7 +73,7 @@ Token name: `servo-bot-<repo>-push`.
 Resource owner: **servo-bot**
 Expiration: Custom (1 year)
 Repository access: `Only select repositories` and select `servo-bot/<repo>`.
-Permissions: `Contents`: `Read and write`
+Permissions: `Contents`: `Read and write`. For `mozjs security bump`, additionally `Workflows: Read and write` is required.
 
 Repository secret names: 
 
