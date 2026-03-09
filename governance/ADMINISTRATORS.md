@@ -51,3 +51,46 @@ The servo repository has a [workflow](https://github.com/servo/servo/blob/main/.
 This workflow requires that the token be generated from the @servo-bot user account.
 Credentials for the @servo-bot account is available on 1password.
 Note that the token needs to be created under the 'Secrets and Variables > Dependabot' page instead of the usual 'Secrets and Variables > Actions' page.
+
+## Automated sync tokens
+
+We currently have two automated sync setups:
+
+- [servo -> servo-book](https://github.com/servo/servo/blob/main/.github/workflows/book-export.yml): Used to sync content from `servo/servo` to `servo/servo-book`
+- [mozjs security bumo](https://github.com/servo/mozjs/blob/main/.github/workflows/security-bump.yml): Used to sync ESR security updates from upstream Spidermonkey releases to `mozjs`
+
+For each of these setups two tokens are required (to limit the permissions granted to the tokens, specifically avoiding giving `Contents: Write` permissions on the upstream repository).
+The tokens should be generated from the @servo-bot user account - credentials are available on 1password.
+
+The tokens should be added to the upstream repository as secrets (e.g. `servo/servo`).
+Note: When regenerating tokens after expiration, it should be sufficient to hit the regenerate button, and update the secret name.
+
+### Token 1 (push branch to servo-bot fork)
+
+The first token is used to push changes to the repository fork under the `servo-bot` user account.
+Login as the servo-bot user and create a new personal access token, by navigating to <https://github.com/settings/personal-access-tokens/new>.
+Token name: `servo-bot-<repo>-push`.
+Resource owner: **servo-bot**
+Expiration: Custom (1 year)
+Repository access: `Only select repositories` and select `servo-bot/<repo>`.
+Permissions: `Contents`: `Read and write`
+
+Repository secret names: 
+
+- The push token for `servo -> servo-book` should be added as a secret to `servo/servo` with the name `BOOK_SYNC_TOKEN`.
+- The push token for `mozjs security bump` should be added as a secret to `mozjs` with the name `SERVO_BOT`.
+
+### Token 2 (Open PR against the upstream repository)
+
+The second token is required to open a PR against the upstream repository.
+Again, login as the servo-bot user and create a new personal access token, by navigating to <https://github.com/settings/personal-access-tokens/new>.
+Token name: `servo-<repo>-pull-request`.
+Resource owner: **servo** (NOT `servo-bot`)
+Expiration: Custom (1 year)
+Repository access: `Only select repositories` and select `servo/<repo>`.
+Permissions: `Pull requests`: `Read and write`
+
+Repository secret names:
+
+- The PR token for `servo -> servo-book` should be added as a secret to `servo/servo` with the name `BOOK_SYNC_CREATE_PR_TOKEN`.
+- The PR token for `mozjs security bump` should be added as a secret to `mozjs` with the name `PR_TOKEN`.
