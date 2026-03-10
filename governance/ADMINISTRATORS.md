@@ -63,7 +63,9 @@ For each of these setups two tokens are required (to limit the permissions grant
 The tokens should be generated from the @servo-bot user account - credentials are available on 1password.
 
 The tokens should be added to the upstream repository as secrets (e.g. `servo/servo`).
-Note: When regenerating tokens after expiration, it should be sufficient to hit the regenerate button, and update the secret name.
+Note: When regenerating tokens after expiration, it should be sufficient to hit the regenerate button, and update the secret value.
+Before regenerating, keep in mind that this immediately revokes the current token, so check for running actions before regenerating.
+For tokens that are used frequently it might makes sense to generate a new token, and revoke the old token only after updating the secret value.
 
 ### Token 1 (push branch to servo-bot fork)
 
@@ -89,6 +91,9 @@ Resource owner: **servo** (NOT `servo-bot`)
 Expiration: Custom (1 year)
 Repository access: `Only select repositories` and select `servo/<repo>`.
 Permissions: `Pull requests`: `Read and write`
+
+Since the token is created with `servo` as the resource owner, the token request must be manually approved by a servo admin afterwards.
+This approval is not required when regenerating an existing token.
 
 Repository secret names:
 
