@@ -11,6 +11,7 @@
 - [DK Liao (@dklassic)](https://github.com/dklassic)
 - [Jan Varga (@janvarga)](https://github.com/janvarga)
 - [Kenzie Raditya Tirtarahardja (@PotatoCP)](https://github.com/PotatoCP)
+- [Leon (@webbedspace)](https://github.com/webbedspace)
 - [Luke Warlow (@lukewarlow)](https://github.com/lukewarlow)
 - [Philipp Albrecht (@pylbrecht)](https://github.com/pylbrecht)
 - [Rodion Borovyk (@rodio)](https://github.com/rodio)
