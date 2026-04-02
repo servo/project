@@ -15,6 +15,7 @@
 - [Rakhi Sharma (@atbrakhi)](https://github.com/atbrakhi) - Igalia
 - [Samson (@sagudev)](https://github.com/sagudev) - unaffiliated
 - [Simon Sapin (@SimonSapin)](https://github.com/SimonSapin) - unaffiliated
+- [Simon Wülker (@simonwuelker)](https://github.com/simonwuelker)
 - [Taym Haddadi (@Taym95)](https://github.com/Taym95) - unaffiliated
 - [Wu Yu Wei (@wusyong)](https://github.com/wusyong) - unaffiliated
 
