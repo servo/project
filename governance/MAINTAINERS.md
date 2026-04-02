@@ -10,6 +10,7 @@
 - [Eri Pazos (@eerii)](https://github.com/eerii)
 - [Euclid Ye (@yezhizhen)](https://github.com/yezhizhen)
 - [Gregory Terzian (@gterzian)](https://github.com/gterzian)
+- [Jan Varga (@janvarga)](https://github.com/janvarga)
 - [Jonathan Schwender (@jschwe)](https://github.com/jschwe)
 - [Josh Matthews (@jdm)](https://github.com/jdm)
 - [Kingsley Yung (@kkoyung)](https://github.com/kkoyung)
