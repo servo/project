@@ -14,7 +14,7 @@
 - [Oriol Brufau (@Loirooriol)](https://github.com/Loirooriol) - Igalia
 - [Rakhi Sharma (@atbrakhi)](https://github.com/atbrakhi) - Igalia
 - [Samson (@sagudev)](https://github.com/sagudev) - unaffiliated
-- [Simon Sapin (@SimonSapin)](https://github.com/SimonSapin) - unaffiliated
+- [Simon Sapin (@SimonSapin)](https://github.com/SimonSapin) - Igalia
 - [Simon Wülker (@simonwuelker)](https://github.com/simonwuelker) - unaffiliated
 - [Taym Haddadi (@Taym95)](https://github.com/Taym95) - unaffiliated
 - [Wu Yu Wei (@wusyong)](https://github.com/wusyong) - unaffiliated
