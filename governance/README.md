@@ -9,7 +9,7 @@ The TSC can form subcommittees for detailed discussion of issues. Currently ther
 The TSC has the following rules:
 * **Maximum size**: Servo TSC maximum size would be **20 people**. We don't limit the number of people from the same organization in the TSC.
 * **Vote limit**: When there's a decision by vote at a meeting, the maximum valid votes per organization is 1/3 of those in attendance, provided quorum is met. When there's a decision made by electronic vote, the maximum valid votes per organization is 1/3 of all voting members of the TSC.
-  * E.g. Right now there are 17 members on the TSC, and 6 are from Igalia. If there's an electronic vote only 5 votes from Igalia would be valid.
+  * E.g. Right now there are 18 members on the TSC, and 7 are from Igalia. If there's an electronic vote only 6 votes from Igalia would be valid.
 
 Servo is a [Linux Foundation Europe Project](https://linuxfoundation.eu/en/projects).
 
