@@ -19,6 +19,7 @@
 - [Steven Novaryo (@stevennovaryo)](https://github.com/stevennovaryo)
 - [TIN TUN AUNG (@rayguo17)](https://github.com/rayguo17/)
 - [Usman Baba Yahaya (@uthmaniv)](https://github.com/uthmaniv)
+- [Veyndan Stuart (@veyndan)](https://github.com/veyndan)
 
 > [!NOTE]
 > Check the [`README.md` file](README.md) for more information about the Servo project governance model.
