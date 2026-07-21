@@ -8,6 +8,7 @@
 - [Andrei Volykhin (@tharkum)](https://github.com/tharkum)
 - [Ashwin Naren (@arihant2math)](https://github.com/arihant2math)
 - [batu_hoang (@longvatrong111)](https://github.com/longvatrong111)
+- [Cameron (@Psychpsyo)](https://github.com/psychpsyo)
 - [DK Liao (@dklassic)](https://github.com/dklassic)
 - [Kenzie Raditya Tirtarahardja (@PotatoCP)](https://github.com/PotatoCP)
 - [Leon (@webbedspace)](https://github.com/webbedspace)
