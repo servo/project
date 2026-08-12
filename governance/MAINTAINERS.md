@@ -3,6 +3,7 @@
 - [@Gae24](https://github.com/Gae24)
 - [@Narfinger](https://github.com/Narfinger/)
 - [Alex Touchet (@atouchet)](https://github.com/atouchet)
+- [Alice Boxhall (@alice)](https://github.com/alice)
 - [atbrakhi (@atbrakhi)](https://github.com/atbrakhi)
 - [cybai (Haku) (@CYBAI)](https://github.com/CYBAI)
 - [Daniel Adams (@msub2)](https://github.com/msub2)
