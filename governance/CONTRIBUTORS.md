@@ -1,5 +1,6 @@
 # Servo Contributors
 
+- [@leowatts](https://github.com/leowatts/)
 - [@lumiscosity](https://github.com/lumiscosity)
 - [@minghuaw](https://github.com/minghuaw)
 - [@shanehandley](https://github.com/shanehandley)
