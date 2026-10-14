@@ -1,7 +1,5 @@
 # Servo Technical Steering Committee Members
 
-- [Cheng-You Bai (@cybai)](https://github.com/cybai) - unaffiliated
-- [Delan Azabani (@delan)](https://github.com/delan) - Igalia
 - [Emilio Cobos Álvarez (@emilio)](https://github.com/emilio) - Mozilla
 - [Gregory Terzian (@gterzian)](https://github.com/gterzian) - unaffiliated
 - [Jonathan Schwender (@jschwe)](https://github.com/jschwe) - Huawei
@@ -17,13 +15,14 @@
 - [Simon Sapin (@SimonSapin)](https://github.com/SimonSapin) - Igalia
 - [Simon Wülker (@simonwuelker)](https://github.com/simonwuelker) - unaffiliated
 - [Taym Haddadi (@Taym95)](https://github.com/Taym95) - unaffiliated
-- [Wu Yu Wei (@wusyong)](https://github.com/wusyong) - unaffiliated
 
 ## Emeritus
 
 - [Alan Jeffrey (@asajeffrey)](https://github.com/asajeffrey)
 - [Anthony Ramine (@nox)](https://github.com/nox)
+- [Cheng-You Bai (@cybai)](https://github.com/cybai)
 - [Connor Brewster (@cbrewster)](https://github.com/cbrewster)
+- [Delan Azabani (@delan)](https://github.com/delan)
 - [Diane Hosfelt (@avadacatavra)](https://github.com/avadacatavra)
 - [Dzmitry Malyshau (@kvark)](https://github.com/kvark)
 - [Fernando Jiménez Moreno (@ferjm)](https://github.com/ferjm)
@@ -35,6 +34,7 @@
 - [Paul Rouget (@paulrouget)](https://github.com/paulrouget)
 - [Patrick Walton (@pcwalton)](https://github.com/pcwalton)
 - [Philip Lamb (@philip-lamb)](https://github.com/philip-lamb)
+- [Wu Yu Wei (@wusyong)](https://github.com/wusyong)
 
 > [!NOTE]
 > Check the [`README.md` file](README.md) for more information about the Servo project governance model.
