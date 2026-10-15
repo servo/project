@@ -10,6 +10,7 @@
 - [batu_hoang (@longvatrong111)](https://github.com/longvatrong111)
 - [Cameron (@Psychpsyo)](https://github.com/psychpsyo)
 - [DK Liao (@dklassic)](https://github.com/dklassic)
+- [Freya Arbjerg (@freyacodes)](https://github.com/freyacodes)
 - [Kenzie Raditya Tirtarahardja (@PotatoCP)](https://github.com/PotatoCP)
 - [Leon (@webbedspace)](https://github.com/webbedspace)
 - [Luke Warlow (@lukewarlow)](https://github.com/lukewarlow)
