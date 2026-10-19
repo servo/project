@@ -43,6 +43,7 @@
 ## rust-smallvec Maintainers
 
 - [Matt Brubeck (@mbrubeck)](https://github.com/mbrubeck)
+- [Alejandro Vaz (@alejandro-vaz)](https://github.com/alejandro-vaz)
 
 ## rust-url Maintainers
 
