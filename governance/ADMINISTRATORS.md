@@ -141,3 +141,30 @@ Repository secret names:
 
 - The PR token for `servo -> servo-book` should be added as a secret to `servo/servo` with the name `BOOK_SYNC_CREATE_PR_TOKEN`.
 - The PR token for `mozjs security bump` should be added as a secret to `mozjs` with the name `PR_TOKEN`.
+
+## Managing crates
+
+This sections assumes one is logged in to their crates.io account in cargo.
+
+### Creating and publishing dummy crate
+
+For automated trusted publishing (currently used in servo and in mozjs) we need pre-existing crate.
+To do this we create dummy crate (0.0.0) with empty contents, just to reserve the crate name:
+1. `cargo new --lib ${create_name}`
+2. edit `Cargo.toml` and add required fields for publish: `description` and `license`
+3. `cargo publish`
+
+### Configuring published crates
+
+For redundancy add more (at least two) administrators as crate owners (just adding team is not enough).
+
+#### Configuring crate for trusted publishing
+
+As a crates.io owner you would need to do the following on the crates.io:
+1. Go to the crates.io page of crate, click Settings → Trusted Publishing 
+2. Click the "Add" button and select your platform (GitHub)
+3. Fill in the platform-specific fields and save the configuration
+3.1. Repository owner: servo
+3.2. Repository name: ${repo}
+3.3 Workflow filename: ${yml_file_for_publish} (Usually `publish.yml` or `release.yml`)
+3.4 Environment: Not applicable, leave empty.
