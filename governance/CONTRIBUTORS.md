@@ -11,6 +11,7 @@
 - [Cameron (@Psychpsyo)](https://github.com/psychpsyo)
 - [DK Liao (@dklassic)](https://github.com/dklassic)
 - [Freya Arbjerg (@freyacodes)](https://github.com/freyacodes)
+- [Glenn Skrzypczak (@skyz1)](https://github.com/skyz1/)
 - [Kenzie Raditya Tirtarahardja (@PotatoCP)](https://github.com/PotatoCP)
 - [Leon (@webbedspace)](https://github.com/webbedspace)
 - [Luke Warlow (@lukewarlow)](https://github.com/lukewarlow)
